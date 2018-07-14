@@ -6,3 +6,21 @@ _Tutorials from the book by Alan D. and Brian K. [The Go Programming Language (A
 sync.Pool vs Channels
 
 -->
+
+<!--
+
+Niceities from Ultimante Go:
+
+- Mechanical Sympathy
+- Data Oriented Design
+- Language Syntax
+- Arrays, Slices and Maps
+- Methods, Interfaces and Embedding
+- Packaging and Exporting
+- Using Pointers
+- Composition
+- Error Handling
+- Concurrency Overview
+
+
+-->
