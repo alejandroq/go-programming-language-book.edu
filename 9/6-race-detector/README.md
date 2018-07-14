@@ -1,0 +1,1 @@
+Concurrency mistakes are easy. Go maintains a tool, the _race detector_. Add the `-race` flag to a `build`, `run` or `test` CLI command. Due to extra instrumentation and bookkeeping, the binary will run a tad slower. Records all sync events (goroutines, sync mutex calls, etc).
